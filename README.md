@@ -40,7 +40,7 @@ You need Windows and Visual Studio 2022 with the **Desktop development with C++*
 CProcessing is included in `Extern/CProcessing`.
 
 ## Team
-
+Liang Zhou, Nadia, Choon Ming, Jun Wen, Dan
 
 
 Original repository: [limlz/Game_Project](https://github.com/limlz/Game_Project)
